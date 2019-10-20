@@ -77,4 +77,4 @@ We will place your name in the readme of that plugin as a `maintainer` or `origi
 
 ---
 
-### - PluggingIn team
+### - Plugin-Contrib team
