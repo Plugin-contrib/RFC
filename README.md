@@ -1,6 +1,6 @@
 <p align="center">
 
-<img alt="pluggingIn logo" src="https://imgur.com/Khp4l3R.png" width="250px" />
+<img alt="pluggingIn logo" src="https://imgur.com/kjyrz79.png" width="250px" />
 
 </p>
 
